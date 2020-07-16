@@ -30,7 +30,7 @@
     "chalk": "~0.2.0",
     "chmodr": "~0.1.0",
     "decompress-zip": "~0.0.3",
-    "fstream": "~0.1.22",
+    "fstream": "~1.0.12",
     "fstream-ignore": "~0.0.6",
     "glob": "~3.2.1",
     "graceful-fs": "~2.0.0",
